@@ -3,7 +3,7 @@ $servername = "localhost";
 $username = "root";
 $password = "";
 $dbname = "student_handle";
-
+// practical session excercise 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
 
